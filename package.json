@@ -22,9 +22,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Whiskr/whiskr/issues"
+    "url": "https://github.com/yukadmz/whiskr/issues"
   },
-  "homepage": "https://github.com/Whiskr/whiskr#readme",
+  "homepage": "https://github.com/yukadmz/whiskr/#readme",
   "dependencies": {
     "axios": "^0.17.1",
     "body-parser": "^1.18.2",
